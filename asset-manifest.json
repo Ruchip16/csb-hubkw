@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ruchip16.github.io/csb-hubkw/static/css/main.cdda3431.chunk.css",
+    "main.js": "https://ruchip16.github.io/csb-hubkw/static/js/main.8eb4804f.chunk.js",
+    "main.js.map": "https://ruchip16.github.io/csb-hubkw/static/js/main.8eb4804f.chunk.js.map",
+    "runtime-main.js": "https://ruchip16.github.io/csb-hubkw/static/js/runtime-main.7d5c23f9.js",
+    "runtime-main.js.map": "https://ruchip16.github.io/csb-hubkw/static/js/runtime-main.7d5c23f9.js.map",
+    "static/js/2.eed3c6af.chunk.js": "https://ruchip16.github.io/csb-hubkw/static/js/2.eed3c6af.chunk.js",
+    "static/js/2.eed3c6af.chunk.js.map": "https://ruchip16.github.io/csb-hubkw/static/js/2.eed3c6af.chunk.js.map",
+    "index.html": "https://ruchip16.github.io/csb-hubkw/index.html",
+    "static/css/main.cdda3431.chunk.css.map": "https://ruchip16.github.io/csb-hubkw/static/css/main.cdda3431.chunk.css.map",
+    "static/js/2.eed3c6af.chunk.js.LICENSE.txt": "https://ruchip16.github.io/csb-hubkw/static/js/2.eed3c6af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d5c23f9.js",
+    "static/js/2.eed3c6af.chunk.js",
+    "static/css/main.cdda3431.chunk.css",
+    "static/js/main.8eb4804f.chunk.js"
+  ]
+}
